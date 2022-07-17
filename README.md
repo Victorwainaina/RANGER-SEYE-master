@@ -13,8 +13,8 @@ Monitoring solution to save our extincting forests and wildlife
 * Email `njaudaniels1@gmail.com`
 * Email `isaaccherutich@outlook.com`
 * Email `victorwainaina@outlook.com`
-* Github `https://github.com/Newton001`
-* LinkedIn `https://www.linkedin.com/in/newton-kelvin-142bb1186/`
+* Github `https://github.com/Victorwainaina`
+* LinkedIn `https://www.linkedin.com/in/victor-wainaina`
 
 ## Technologies Used
 1. Arduino
